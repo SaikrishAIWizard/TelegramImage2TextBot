@@ -3,6 +3,9 @@
 
 ![Telegram OCR Bot](https://fiverr-res.cloudinary.com/t_mobile_web_2,q_auto,f_auto/gigs/259999714/original/1bf03fc03bb9d3d55026bcccd8d01ca4c48b5946.png)
 
+
+https://www.youtube.com/watch?v=UEvzqZu7Qfc&list=PLVCgi5HZ0-Yt534vFsbzdw36yfC3OtiuY&index=2
+
 ## Introduction
 Welcome to the Telegram OCR Bot project! This bot is designed to extract text from images sent by users and send back the extracted text as a response. It leverages Optical Character Recognition (OCR) technology to analyze the images and extract the textual content.
 
